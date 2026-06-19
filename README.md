@@ -5,6 +5,7 @@ Hello my name is Renato Silva e Silva, I am currently 23 years old and I live in
 Academic:
 - I finished highschool at Cypress Creek High School in Orlando
 - I have acquired my associates and my bachelors degree in Business Analytics: Quatitative Econometrics at Florida Polytechnic University
+
 Professional:
 - 🔭 I’m currently working on finishing up my master's degree at Florida polytechnic University in Engineering Management
 - 🌱 I’m currently learning more about data visualization
